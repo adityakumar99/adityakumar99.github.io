@@ -6,4 +6,4 @@ range: 'March - 2017'
 url: 'https://www.stkarenshighschool.com/home.aspx'
 ---
 
-- studing at [stkarenshighschool](https://www.stkarenshighschool.com/home.aspx)
+- studing at [st karens high school](https://www.stkarenshighschool.com/home.aspx)
